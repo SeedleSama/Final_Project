@@ -27,3 +27,14 @@ path {
 #tip-body {
   padding: 10px 10px;
 }
+#title {
+  font-size: 25px;
+  font-family: 'Oswald', sans-serif;
+  }
+  
+  /* social media icons */
+  #title span {
+  font-size: 14px;
+  float: right;
+  margin-right: 10px;
+  }
